@@ -1,0 +1,4 @@
+Dependencies for Project 'gpio', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6160000::V6.16::ARMCLANG
+F (.\gpio.s)(0x61685592)(--target=arm-arm-none-eabi -mcpu=cortex-m3 -masm=auto -c-gdwarf-3 -Wa,armasm,--pd,"__EVAL SETA 1"-IC:/Users/SRM/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.7.0/Device/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 534" -Wa,armasm,--pd,"LPC175x_6x SETA 1"-o ./objects/gpio.o)
+F (.\startup_LPC17xx.s)(0x61682A55)(--target=arm-arm-none-eabi -mcpu=cortex-m3 -masm=auto -c-gdwarf-3 -Wa,armasm,--pd,"__EVAL SETA 1"-IC:/Users/SRM/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.7.0/Device/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 534" -Wa,armasm,--pd,"LPC175x_6x SETA 1"-o ./objects/startup_lpc17xx.o)
